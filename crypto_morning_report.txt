@@ -1,0 +1,15 @@
+**Morning Brief: Crypto Market Analysis**
+
+**Market Trend:** Neutral
+
+**Key Observations:**
+
+- The top 3 winners in the past 24 hours are Hedera (4.40363%), Rain (4.27206%), and Gram (2.62126%).
+- The top 3 losers in the past 24 hours are Litecoin (-2.54427%), Zcash (-4.81061%), and Hyperliquid (-7.01604%).
+
+**Market Capitalization:**
+
+- The market capitalization of the top 3 winners is $3.10 billion (Hedera), $10.15 billion (Rain), and $4.10 billion (Gram).
+- The market capitalization of the top 3 losers is $3.59 billion (Litecoin), $8.65 billion (Zcash), and $13.08 billion (Hyperliquid).
+
+**Market Movement:** The market is experiencing a mixed trend, with some assets gaining value while others decline. The winners and losers indicate a neutral market trend, with no clear direction or dominant force driving the market.
