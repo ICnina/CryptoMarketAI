@@ -30,8 +30,8 @@ Clone this repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ICnina/ebook-scraper-ai.git
-cd ebook-scraper-ai 
+git clone https://github.com/ICnina/CryptoMarketAI.git
+cd CryptoMarketAI
 
 # Install required packages
 pip install requests pandas groq python-dotenv
@@ -49,7 +49,7 @@ GROQ_API_KEY=your_actual_api_key_here
 ### 4. Running the Pipeline
 
 **Step 1: Fetch and Clean Crypto Data**
-Run the main ingestion script to fetch live market data, filter out stablecoins/pegged assets, and output Crypto_top20.csv:
+Run the main ingestion script to fetch live market data, filter out stablecoins/pegged assets, and output `Crypto_top20.csv`:
 
 ```bash
 python3 main.py
